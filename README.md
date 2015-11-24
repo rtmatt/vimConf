@@ -22,7 +22,7 @@ pip install --user powerline-status
 ```
 ### Get NerdTree
 ```
-git clone https://github.com/scrooloose/nerdtree.git ~/.vim/bundle/
+git clone https://github.com/scrooloose/nerdtree.git ~/.vim/bundle/nerdtree
 ```
 ### Configure Fonts
 In order for the icons in powerline to render properly, you need to set your item2 font settings for the session to include one of the fonts found here:
