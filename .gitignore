@@ -1,2 +1,4 @@
 swap/*
 backup/*
+!swap/.gitkeep
+!backup/.gitkeep
