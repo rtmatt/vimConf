@@ -1,5 +1,11 @@
 # vimConf
-Configuration for my vim set up
+Vim configuration specific to usage in iTerm2.
+## Includes
+* Powerline plugin
+* xoria256 color scheme
+* NERDTree plugin
+* Various configurations and key mappings
+
 ## Prerequisites
 pip
 ```
